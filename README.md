@@ -1,0 +1,1 @@
+This is a implementation of the Proximal Policy Optimization (PPO) algorithm. The implementation is tested on the 2D car, Bipedal Walker and LunarLander using the OpenAI gym library.
