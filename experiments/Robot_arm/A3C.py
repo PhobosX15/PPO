@@ -7,9 +7,7 @@ The far away from blue point the less reward; touch blue r+=1; stop at blue for 
 You can train this RL by using LOAD = False, after training, this model will be store in the a local folder.
 Using LOAD = True to reload the trained model for playing.
 
-You can customize this script in a way you want.
 
-View more on [莫烦Python] : https://morvanzhou.github.io/tutorials/
 
 
 Requirement:

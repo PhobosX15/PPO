@@ -2,7 +2,6 @@
 Environment for 2D car driving.
 You can customize this script in a way you want.
 
-View more on [莫烦Python] : https://morvanzhou.github.io/tutorials/
 
 
 Requirement:

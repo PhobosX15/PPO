@@ -7,7 +7,7 @@ Restart workers once PPO is updated.
 The global PPO updating rule is adopted from DeepMind's paper (DPPO):
 Emergence of Locomotion Behaviours in Rich Environments (Google Deepmind): [http://adsabs.harvard.edu/abs/2017arXiv170702286H]
 
-View more on my tutorial website: https://morvanzhou.github.io/tutorials
+
 
 Dependencies:
 tensorflow r1.2

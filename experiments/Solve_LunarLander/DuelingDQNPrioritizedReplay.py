@@ -1,7 +1,7 @@
 """
 The DQN improvement: Prioritized Experience Replay (based on https://arxiv.org/abs/1511.05952)
 
-View more on 莫烦Python: https://morvanzhou.github.io/tutorials/
+
 
 Using:
 Tensorflow: 1.0
@@ -15,12 +15,7 @@ tf.set_random_seed(1)
 
 
 class SumTree(object):
-    """
-    This SumTree code is modified version and the original code is from:
-    https://github.com/jaara/AI-blog/blob/master/SumTree.py
-
-    Story the data with it priority in tree and data frameworks.
-    """
+    
     data_pointer = 0
 
     def __init__(self, capacity):
